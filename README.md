@@ -176,3 +176,6 @@ Run anywhere with Docker
 - How to tag an image for Docker Hub
 - How to push an image to Docker Hub
 - How to pull and run a published Docker image
+
+## Local notes
+- Docker project initialized.
