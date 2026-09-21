@@ -179,3 +179,6 @@ Run anywhere with Docker
 
 ## Local notes
 - Docker project initialized.
+
+## Build check
+- Verified with docker build.
